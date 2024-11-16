@@ -1,8 +1,8 @@
 👋 Hi, I’m @omair-660
 👀 I’m interested in front-end development, web design, and creating educational platforms
-🌱 I’m currently learning advanced JavaScript concepts and React with Tailwind CSS
+🌱 I’m currently learning advanced JavaScript concepts and React with Tailwind CSS or Bootstrap 
 💞️ I’m looking to collaborate on web development projects, especially those involving educational tools or creative front-end work
-📫 How to reach me: LinkedIn or via email at mohamedomair82@gmail.com
+📫 How to reach me: LinkedIn or via email at elrosyomair@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m passionate about combining tech with education, and I love palestine.
 
