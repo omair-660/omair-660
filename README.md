@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I’m passionate about combining tech with education, and I love palestine.
+⚡ Fun fact: I’m passionate about combining tech with education, and I love Palestine 🇵🇸.
 
 <!---
 omair-660/omair-660 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
